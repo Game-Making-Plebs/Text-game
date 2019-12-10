@@ -1,0 +1,3 @@
+jsPlumb.bind("ready", function(){
+
+});
